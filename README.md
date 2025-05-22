@@ -1,5 +1,3 @@
----
-
 # **SIEM Log Analysis Documentation**
 
 ## **1. Project Overview**  
