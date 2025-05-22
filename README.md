@@ -93,6 +93,10 @@ The goal of this project is to analyze security logs using a Security Informatio
 
 <img src="project/image107.png"> <img src="project/image108.png"> <img src="project/image109.png"> <img src="project/image110.png"> <img src="project/image111.png"> <img src="project/image112.png"> <img src="project/image113.png"> <img src="project/image114.png"> <img src="project/image115.png"> <img src="project/image116.png"> <img src="project/image117.png"> <img src="project/image118.png"> <img src="project/image119.png">
 
+**Investigating Metasploit Payload**
+
+<img src="project/image120.png"> <img src="project/image121.png"> <img src="project/image122.png"> <img src="project/image123.png"> <img src="project/image124.png">
+
 
 
 
